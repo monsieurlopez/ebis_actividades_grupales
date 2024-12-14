@@ -9,3 +9,6 @@
 -Luis Ángel Fernández Terrón
 </br>
 -Sergio López Ruiz
+
+## ¿Podremos conseguir fusionar aprobando el equipo?
+- Yo creo que si (DavidOM)
